@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #EEE;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+     max-width: 1000px;
+     background-color:#006A4D;
+     margin: 0 auto;
+     padding: 10px;
+}
+.profile{
+    height: 120px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    
+}
+.bio{
+    float: left;
+    padding: 20px;
+}
+h2,h3,h5{
+    color: #FFCD00;
+}
+.header-contruct{
+    float: right;
+    padding:25px;
+}
+.header-contruct a{
+    text-decoration: none;
+    color:#FFCD00;
+    font-weight: bold;
+
+}
+.header-contruct:hover a{
+    text-decoration: underline;
+    color: tomato;
+    
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border:rgb(219, 219, 38) solid 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#section1{
+
+}
+.contante{
+    margin-bottom: 30px;
+}
+
+.left-div{
+    float: left;
+    width:30%;
+}
+.right-div{
+    float: right;
+    color: white;
+    width: 70%;
+    text-align: justify;
+}
+.common-hr{
+    border:rgb(219, 219, 38) solid 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.div-clear{
+    clear: both;
+}
+.right-div-left{
+    float:left;
+    width: 35%;
+}
+.right-div-right{
+    float: right;
+    width: 35%;
+}
+.color{
+    color:#FFCD00;
+}
+.bttom{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+.bttom a{
+    color:white;
+    margin: 20px;
+    text-decoration: none;
+    
+}
+.bttom p{
+    color:white;
+    margin-top: 20px;
+}
